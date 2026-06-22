@@ -52,6 +52,7 @@ python run_ddpm.py
 python run_vae.py
 python run_gan.py
 ```
+The trained checkpoints in this work in available at: https://zenodo.org/records/20794836
 
 ## Downstream analysis
 
