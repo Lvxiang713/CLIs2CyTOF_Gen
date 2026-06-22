@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files
+*.h5ad
+*.csv
+*.xlsx
+*.xls
+*.npy
+*.npz
+*.pkl
+
+# Model checkpoints
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+checkpoint/
+
+# Outputs
+outputs/
+results/
+logs/
+wandb/
+
+# System files
+.DS_Store
+Thumbs.db
